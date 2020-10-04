@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "722785754868",
+    "firebase_url": "https://drpc-273d1.firebaseio.com",
+    "project_id": "drpc-273d1",
+    "storage_bucket": "drpc-273d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722785754868:android:953aeb33dca4b168bf88a1",
+        "android_client_info": {
+          "package_name": "com.app.drpc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722785754868-8f6co8nq1vbeushmcme4oragdfuv31bh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.drpc",
+            "certificate_hash": "3affe10f9bc6a5de7e9b6bf38fdb5943e27f1fb3"
+          }
+        },
+        {
+          "client_id": "722785754868-m2aj8fdd4ai40bm3glu5k8ce1fil6dq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIo3Saqfb1d46ygB2h4cRc3qQ4T4diowk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722785754868-m2aj8fdd4ai40bm3glu5k8ce1fil6dq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
